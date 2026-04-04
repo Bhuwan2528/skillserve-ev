@@ -3,9 +3,6 @@ import './Video.css'
 import { FaPlay } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
 import { useNavigate } from 'react-router-dom';
-import video1 from '../../assets/video1.mp4'
-import video2 from '../../assets/video2.mp4'
-import video3 from '../../assets/video3.mp4'
 
 const Video = ({ data }) => {
 
@@ -30,7 +27,7 @@ heading:"They Started Like You. Now They Are EV Experts. ",
 description:`These are real success stories of learners who mastered Electric Vehicles, worked on live cars, and stepped confidently into the EV industry.`,
 
 videoUrls:[
-  video1, video2, video3,
+  "https://res.cloudinary.com/dyiqsf4ze/video/upload/v1775295604/video3_ij6fxs.mp4", "https://res.cloudinary.com/dyiqsf4ze/video/upload/v1775295526/video2_xvcuox.mp4", "https://res.cloudinary.com/dyiqsf4ze/video/upload/v1775295526/video1_pvemep.mp4",
 "https://res.cloudinary.com/dyiqsf4ze/video/upload/v1774530746/From_Student_to_Supervisor_My_Success_Story_with_Skill_Serve_shorts_successstory_cncmachine_240P_d87epb.mp4",
 
 ]
