@@ -20,10 +20,10 @@ const About = ({ data }) => {
   // fallback content
   const defaultAbout = {
     heading:
-      "We prepare you with practical skills to succeed and get <span>hired by leading companies</span>",
+      "From Beginner to EV Expert :<span> Hands-On Training That Gets You Hired! </span> ",
 
     description:
-      "Our Electric Vehicle (02, 03 & 04 Wheeler) course is designed to make you a truly job-ready EV technician. You don’t just learn—you gain a recognized NSQF Level certification (Digilocker Verified) while working on real EV systems and practical projects. The training covers what actually matters in the EV industry, including battery systems, motor & controller working, wiring, diagnostics, and essential safety practices. As you progress, you build hands-on expertise in EV assembly, fault finding, battery management, and servicing—skills that are in high demand across workshops and EV companies. What makes this course stand out is the integration of modern EV practices like safety standards, efficiency techniques, and structured workflows, helping you work with precision and a professional mindset. If you want real skills, real EV exposure, and strong career growth—this is the perfect place to start.",
+      "Our Electric Vehicle (EV) course is designed to make you truly job-ready for the fastest-growing industry in India. You don’t just learn concepts; you earn a recognized NSQF Level certification while working on live cars and real EV systems.    <br><br>    The training covers complete EV architecture, battery & BMS, motors & controllers, and charging systems, along with hands-on expertise in harness repair, sensors, regenerative braking systems, vehicle diagnostics, fault analysis, and drive systems.           <br><br>          This is not classroom learning, it’s real, practical exposure where you understand how EVs actually work, diagnose issues, and fix them confidently. If you want skills that companies are actively hiring for and a career that is future-proof, this course gives you the right start with real machines, real projects, and real industry experience. ",
 
     buttonText: "Read More"
   };
